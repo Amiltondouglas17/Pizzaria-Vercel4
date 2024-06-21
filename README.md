@@ -1,5 +1,6 @@
 # Sakai
-
+Equipe: Amilton douglas, jhonatan, Nicolas. 
+para o projeto de devolps
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
 ## Starting
